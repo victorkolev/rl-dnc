@@ -1,2 +1,3 @@
 # rl-dnc
-Using memory-augmented neural architectures in reinforcement learning problems.
+Using memory-augmented neural architectures in reinforcement learning settings.
+View rl_dnc.pdf to see the latest results of our research. 
